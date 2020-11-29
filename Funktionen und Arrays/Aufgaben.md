@@ -4,9 +4,9 @@
 Schreibt eine Funktion, welche ermittelt, ob in einer Liste Duplikate enthalten sind oder nicht.
 
 Beispiel:
-{1, 2, 3} -> False
-{1, 2, 2, 3} -> True
-{1, 2, 1} -> True
+{1, 2, 3} -> False  
+{1, 2, 2, 3} -> True  
+{1, 2, 1} -> True  
 
 ### Aufgabe 2
 Schreibt eine Funktion, welche die Länge des längsten Wortes eines Satzes zurückgibt.
@@ -19,5 +19,5 @@ Beispiel:
 Schreibt eine Funktion, welche die Summe aller Ziffern einer Zahl ermittelt.
 
 Beispiel:
-123 -> 6 (1 + 2 + 3 = 6)
+123 -> 6 (1 + 2 + 3 = 6). 
 1337 -> 14 (1 + 3 + 3 + 7 = 14)
