@@ -11,9 +11,9 @@ Beispiel:
 ### Aufgabe 2
 Schreibt eine Funktion, welche die Länge des längsten Wortes eines Satzes zurückgibt.
 
-Beispiel:
-"The quick brown fox jumps over the lazy dog" -> 5
-"Eine Banane ist nicht immer krumm" -> 6
+Beispiel:  
+"The quick brown fox jumps over the lazy dog" -> 5  
+"Eine Banane ist nicht immer krumm" -> 6  
 
 ### Aufgabe 3
 Schreibt eine Funktion, welche die Summe aller Ziffern einer Zahl ermittelt.
