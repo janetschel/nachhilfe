@@ -18,6 +18,6 @@ Beispiel:
 ### Aufgabe 3
 Schreibt eine Funktion, welche die Summe aller Ziffern einer Zahl ermittelt.
 
-Beispiel:
+Beispiel:  
 123 -> 6 (1 + 2 + 3 = 6)   
 1337 -> 14 (1 + 3 + 3 + 7 = 14)
