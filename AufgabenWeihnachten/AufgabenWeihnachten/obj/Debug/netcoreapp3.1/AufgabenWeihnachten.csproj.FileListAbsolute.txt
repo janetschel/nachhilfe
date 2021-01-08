@@ -1,0 +1,12 @@
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/bin/Debug/netcoreapp3.1/AufgabenWeihnachten.deps.json
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/bin/Debug/netcoreapp3.1/AufgabenWeihnachten.runtimeconfig.json
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/bin/Debug/netcoreapp3.1/AufgabenWeihnachten.runtimeconfig.dev.json
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/bin/Debug/netcoreapp3.1/AufgabenWeihnachten.dll
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/bin/Debug/netcoreapp3.1/AufgabenWeihnachten.pdb
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/obj/Debug/netcoreapp3.1/AufgabenWeihnachten.csprojAssemblyReference.cache
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/obj/Debug/netcoreapp3.1/AufgabenWeihnachten.AssemblyInfoInputs.cache
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/obj/Debug/netcoreapp3.1/AufgabenWeihnachten.AssemblyInfo.cs
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/obj/Debug/netcoreapp3.1/AufgabenWeihnachten.csproj.CoreCompileInputs.cache
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/obj/Debug/netcoreapp3.1/AufgabenWeihnachten.dll
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/obj/Debug/netcoreapp3.1/AufgabenWeihnachten.pdb
+/Users/janetschel/Documents/GitHub/nachhilfe/AufgabenWeihnachten/AufgabenWeihnachten/obj/Debug/netcoreapp3.1/AufgabenWeihnachten.genruntimeconfig.cache

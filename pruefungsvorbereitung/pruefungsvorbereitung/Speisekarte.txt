@@ -1,0 +1,13 @@
+﻿S1;Peking Suppe;3,00 
+S2;Miso Suppe;2,90 
+V1;Frühlingsrolle;3,10 
+V2;Krabbenchips (Krupuk);2,80 
+V3;Gemischter Salat;3,30 
+H1;Gebratene Nudeln mit Gemüse;8,50 
+H2;Nasi-Goreng;10,80 
+H3;Hühnerfleisch Chop-Suey;9,50 
+H4;Schweinefleisch süß-sauer;10,00 
+H5;Rindfleisch Gong-Bao;11,50 
+H6;Ente mit Gemüse;12,50 
+D1;Gebackene Banane mit Honig;3,00 
+D2;Frisches Obst;2,50

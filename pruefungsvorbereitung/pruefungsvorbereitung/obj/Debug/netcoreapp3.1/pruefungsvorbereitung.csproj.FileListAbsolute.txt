@@ -1,0 +1,12 @@
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/bin/Debug/netcoreapp3.1/pruefungsvorbereitung.deps.json
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/bin/Debug/netcoreapp3.1/pruefungsvorbereitung.runtimeconfig.json
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/bin/Debug/netcoreapp3.1/pruefungsvorbereitung.runtimeconfig.dev.json
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/bin/Debug/netcoreapp3.1/pruefungsvorbereitung.dll
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/bin/Debug/netcoreapp3.1/pruefungsvorbereitung.pdb
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/obj/Debug/netcoreapp3.1/pruefungsvorbereitung.csprojAssemblyReference.cache
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/obj/Debug/netcoreapp3.1/pruefungsvorbereitung.AssemblyInfoInputs.cache
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/obj/Debug/netcoreapp3.1/pruefungsvorbereitung.AssemblyInfo.cs
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/obj/Debug/netcoreapp3.1/pruefungsvorbereitung.csproj.CoreCompileInputs.cache
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/obj/Debug/netcoreapp3.1/pruefungsvorbereitung.dll
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/obj/Debug/netcoreapp3.1/pruefungsvorbereitung.pdb
+/Users/janetschel/Documents/GitHub/nachhilfe/pruefungsvorbereitung/pruefungsvorbereitung/obj/Debug/netcoreapp3.1/pruefungsvorbereitung.genruntimeconfig.cache
